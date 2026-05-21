@@ -6,7 +6,7 @@
 #include "Monster.h"
 
 using namespace std;
-
+// asdasd
 void printBrick()
 {
 	for (int i = 0; i < 40; i++)
